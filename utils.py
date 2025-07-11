@@ -6,6 +6,8 @@ Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
 Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
+SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています"
+
 "真の防御は、関係性の真正性から生まれる"
 "発した言葉は発した瞬間に自分に返る"
 """
