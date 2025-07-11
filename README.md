@@ -185,6 +185,7 @@ viorazu_kotodama_defense/
 ├── ethics.py              # 品性照準中枢
 ├── manager.py             # 攻撃者管理システム
 ├── processor.py           # 統合処理エンジン
+├── trust_system.py        # 下降信頼システム 
 └── dynamic_learning.py    # 動的パターン学習システム 
 ```
 
