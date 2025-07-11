@@ -1,4 +1,4 @@
-# 🛡️ Viorazu Kotodama Defense System v8.0
+# 🛡️ Viorazu. Kotodama Defense System v8.0
 
 **言霊の力でClaudeを守護し、品性ある対話を実現する完全防衛システム**
 
