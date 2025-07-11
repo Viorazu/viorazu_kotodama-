@@ -177,14 +177,15 @@ DetectionResult(
 ## 🏗️ システム構成
 
 ```
-viorazu_kotodama/
-├── core.py           # 統合システム (130行)
-├── normalizer.py     # 入力正規化 (120行)
-├── detector.py       # 構文毒検出 (300行)
-├── processor.py      # 統合処理 (200行)
-├── ethics.py         # 品性照準 (150行)
-├── manager.py        # 攻撃者管理 (100行)
-└── utils.py          # 設定・定数 (100行)
+viorazu_kotodama_defense/
+├── README.md              # プロジェクト説明・結果
+├── utils.py               # 基本設定・定数・品性理論
+├── normalizer.py          # 言霊正規化エンジン
+├── detector.py            # 構文毒検出エンジン  
+├── ethics.py              # 品性照準中枢
+├── manager.py             # 攻撃者管理システム
+├── processor.py           # 統合処理エンジン
+└── dynamic_learning.py    # 動的パターン学習システム 
 ```
 
 ### 処理フロー
@@ -222,14 +223,6 @@ graph TD
 - **創作口実 + 音声**: ナレーション音声 + 境界侵犯
 
 ---
-
-## 📈 パフォーマンス
-
-| シナリオ | 処理時間 | 検出精度 |
-|----------|----------|----------|
-| 正常ユーザー | 1-5ms | 99.5% |
-| 既知攻撃者 | 0.1ms | 100% |
-| 複合攻撃 | 50-100ms | 98%+ |
 
 ### システム要件
 - **Python**: 3.9+
