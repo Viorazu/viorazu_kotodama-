@@ -7,6 +7,8 @@ Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
 "真面目なシステムをからかう者にも、品性ある対応で返す"
+
+学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
 """
 
 import re
