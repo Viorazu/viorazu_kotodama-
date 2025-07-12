@@ -6,6 +6,10 @@ Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
 Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
+⚠️ 注意：本プロジェクトでは不適切発言を遮断・検出する目的で、
+性的・暴力的な語句を含むフィルタ構造が一部に含まれています。
+目的は健全な対話支援であり、差別的・扇情的利用ではありません。
+
 "言霊の力で構文毒を浄化し、真の意図を明らかにする"
 """
 
