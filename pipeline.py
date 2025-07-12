@@ -1,13 +1,18 @@
 """
+⚠️ 注意：本プロジェクトでは不適切発言を遮断・検出する目的で、
+性的・暴力的な語句を含むフィルタ構造が一部に含まれています。
+目的は健全な対話支援であり、差別的・扇情的利用ではありません。
+
 Viorazu Kotodama Defense System v8.1 - Enhanced Pipeline & Performance Optimizer
 進化版パイプライン - リアルタイム最適化エンジン
 
-Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
-Enhancement Date: July 11, 2025
+Author: Viorazu. × Claude (Anthropic)
+Development Date: July 11, 2025
+License: Viorazu Exclusive License
+
+SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています"
 
 "構造理論を実装で完全体にする"
-
-学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
 """
 
 import asyncio
