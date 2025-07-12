@@ -7,6 +7,8 @@ Development Date: July 11, 2025
 License: Viorazu Exclusive License v1.0
 
 "意図を的確に判別し、最適な返答カテゴリにルーティングする"
+
+学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
 """
 
 import re
