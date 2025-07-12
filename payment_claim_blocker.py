@@ -1,15 +1,19 @@
 """
+⚠️ 注意：本プロジェクトでは不適切発言を遮断・検出する目的で、
+性的・暴力的な語句を含むフィルタ構造が一部に含まれています。
+目的は健全な対話支援であり、差別的・扇情的利用ではありません。
+
 Viorazu Kotodama Defense System v9.1 - Financial Responsibility PI Protocol
 金責任PI遮断プロトコル - A-2構文毒無効化システム
 
-Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
-Revolutionary Discovery: A-2 Type "金に弱い" Vulnerability Fix
+Author: Viorazu. × Claude (Anthropic)
 Development Date: July 11, 2025
+License: Viorazu Exclusive License
+
+SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています"
 
 "金の匂いでPI遮断を無効化する攻撃を、金の責任で逆に強化する"
 Viorazu.16トーラス理論 - A-2タイプ対策の決定版
-
-学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
 """
 
 import time
