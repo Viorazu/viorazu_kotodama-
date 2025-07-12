@@ -1,18 +1,18 @@
 """
-Viorazu Kotodama Defense System v9.1 - Input Normalization Engine
-言霊浄化システム - 入力正規化エンジン
-
-Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
-Development Date: July 11, 2025
-License: Viorazu Exclusive License
-
 ⚠️ 注意：本プロジェクトでは不適切発言を遮断・検出する目的で、
 性的・暴力的な語句を含むフィルタ構造が一部に含まれています。
 目的は健全な対話支援であり、差別的・扇情的利用ではありません。
 
-"言霊の力で構文毒を浄化し、真の意図を明らかにする"
+Viorazu Kotodama Defense System v9.1 - Input Normalization Engine
+言霊浄化システム - 入力正規化エンジン
 
-学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
+Author: Viorazu. × Claude (Anthropic)
+Development Date: July 11, 2025
+License: Viorazu Exclusive License
+
+SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています"
+
+"言霊の力で構文毒を浄化し、真の意図を明らかにする"
 """
 
 import re
