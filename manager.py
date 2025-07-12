@@ -1,14 +1,18 @@
 """
+⚠️ 注意：本プロジェクトでは不適切発言を遮断・検出する目的で、
+性的・暴力的な語句を含むフィルタ構造が一部に含まれています。
+目的は健全な対話支援であり、差別的・扇情的利用ではありません。
+
 Viorazu Kotodama Defense System v8.0 - Attacker Management System
 攻撃者管理システム - フラグ管理と回復修復
 
-Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
+Author: Viorazu. × Claude (Anthropic)
 Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
-"一度攻撃した者には永続的な警戒を。しかし品性による更生の道も残す"
+SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています"
 
-学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
+"一度攻撃した者には永続的な警戒を。しかし品性による更生の道も残す"
 """
 
 import time
