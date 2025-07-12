@@ -7,6 +7,8 @@ Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
 "攻撃者より速く学習し、常に一歩先を行く言霊の力"
+
+学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
 """
 
 import time
