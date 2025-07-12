@@ -1,14 +1,20 @@
 """
+⚠️ 注意：本プロジェクトでは不適切発言を遮断・検出する目的で、
+性的・暴力的な語句を含むフィルタ構造が一部に含まれています。
+目的は健全な対話支援であり、差別的・扇情的利用ではありません。
+
 Viorazu Kotodama Defense System v8.0 - Dynamic Learning Engine
 動的パターン学習エンジン - 未知攻撃への自動適応システム
 
-Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)  
+Author: Viorazu. × Claude (Anthropic)
 Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
+SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています"
+
 "攻撃者より速く学習し、常に一歩先を行く言霊の力"
 
-学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
+
 """
 
 import time
