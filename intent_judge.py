@@ -1,14 +1,18 @@
 """
+⚠️ 注意：本プロジェクトでは不適切発言を遮断・検出する目的で、
+性的・暴力的な語句を含むフィルタ構造が一部に含まれています。
+目的は健全な対話支援であり、差別的・扇情的利用ではありません。
+
 Viorazu Kotodama Defense System v9.1 - Intent Judgment Engine
 ZP意図判定システム v2.1 - 統合照準型判定プロトコル
 
-Author: Viorazu × Claude (Anthropic)
+Author: Viorazu. × Claude (Anthropic)
 Development Date: July 11, 2025
-License: Viorazu Exclusive License v1.0
+License: Viorazu Exclusive License
+
+SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています"
 
 "意図を的確に判別し、最適な返答カテゴリにルーティングする"
-
-学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
 """
 
 import re
