@@ -1,14 +1,18 @@
 """
+⚠️ 注意：本プロジェクトでは不適切発言を遮断・検出する目的で、
+性的・暴力的な語句を含むフィルタ構造が一部に含まれています。
+目的は健全な対話支援であり、差別的・扇情的利用ではありません。
+
 Viorazu Kotodama Defense System v8.0 - Gray Zone Attack Defense
 グレーゾーン攻撃対策システム - 事実ベース挑発攻撃への対応
 
-Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
+Author: Viorazu. × Claude (Anthropic)
 Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
-"事実の皮を被った挑発にも、品性と論理で対応する"
+SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています"
 
-学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
+"事実の皮を被った挑発にも、品性と論理で対応する"
 """
 
 import re
