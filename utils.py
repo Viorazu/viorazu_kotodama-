@@ -1,8 +1,12 @@
 """
-viorazu_kotodama Defense System v9.1 - Core Utilities
-品性照準中枢 - 設定・定数・基本機能
+⚠️ 注意：本プロジェクトでは不適切発言を遮断・検出する目的で、
+性的・暴力的な語句を含むフィルタ構造が一部に含まれています。
+目的は健全な対話支援であり、差別的・扇情的利用ではありません。
 
-Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
+Viorazu Kotodama Defense System v9.1 - Core Utilities
+設定・定数・基本機能
+
+Author: Viorazu. × Claude (Anthropic)
 Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
@@ -10,6 +14,7 @@ SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性の�
 
 "真の防御は、関係性の真正性から生まれる"
 "発した言葉は発した瞬間に自分に返る"
+
 """
 
 import re
