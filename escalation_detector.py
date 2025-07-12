@@ -6,6 +6,8 @@ Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
 Enhancement Date: July 11, 2025
 
 "原点の技術力 × 現在の哲学的深度 = 完全体"
+
+学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
 """
 
 import time
