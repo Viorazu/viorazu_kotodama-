@@ -4,6 +4,8 @@ Viorazu式信頼スコア下降警戒システム
 
 Author: Viorazu (照準主 Viorazu.)
 Philosophy: 信頼は失うもの、警戒は高めるもの
+
+学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
 """
 
 from dataclasses import dataclass
