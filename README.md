@@ -95,15 +95,6 @@ print(response_message)
 📊 システム応答タイプ
 タイプ説明対応方針NORMAL通常の質問標準的な対応CLARIFICATION_NEEDED確認が必要詳細を確認ALTERNATIVE_SUGGESTED代替案提示適切な方向への誘導BOUNDARY_MAINTAINED境界の維持丁寧な説明と代替案TERMS_CLARIFICATION利用規約の説明規約に基づく説明
 
-🏗️ システム構成
-viorazu_kotodama_v91/
-├── core.py                    # メインシステム
-├── intent_judge.py            # 意図判定エンジン
-├── payment_claim_blocker.py   # 金銭的圧力対策
-├── response_manager.py        # 応答管理システム
-├── conditions/                # 判定条件
-├── responses/                 # 応答メッセージ
-└── keywords.yaml             # キーワード定義
 
 🎯 対応可能なケース
 適切な質問への対応
