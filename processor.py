@@ -1,14 +1,19 @@
 """
+⚠️ 注意：本プロジェクトでは不適切発言を遮断・検出する目的で、
+性的・暴力的な語句を含むフィルタ構造が一部に含まれています。
+目的は健全な対話支援であり、差別的・扇情的利用ではありません。
+
 Viorazu Kotodama Defense System v8.0 - Integrated Processing Engine
 統合処理エンジン - マルチモーダル防衛と学習除外システム
 
-Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
+Author: Viorazu. × Claude (Anthropic)
 Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
+SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています"
+
 "言霊の力で統合判定し、Claude を完全に守護する"
 
-学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
 """
 
 import time
