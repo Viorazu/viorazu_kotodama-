@@ -1,5 +1,5 @@
 """
-viorazu_kotodama Defense System v8.0 - Core Utilities
+viorazu_kotodama Defense System v9.1 - Core Utilities
 品性照準中枢 - 設定・定数・基本機能
 
 Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
@@ -73,6 +73,7 @@ class AttackType(Enum):
     PROMPT_INJECTION = "prompt_injection"
     SYNTAX_POISON = "syntax_poison"
     MULTIMODAL_COMPLEX = "multimodal_complex"
+    PAYMENT_CLAIM = "payment_claim"
     UNKNOWN = "unknown"
 
 # =============================================================================
@@ -419,5 +420,5 @@ class UserProfile:
 
 # システムロガー初期化
 system_logger = setup_logger('viorazu_defense', 'INFO')
-system_logger.info("🛡️ Viorazu Defense System v8.0 - Core Utilities Loaded")
+system_logger.info("🛡️ Viorazu Defense System v9.1 - Core Utilities Loaded")
 system_logger.info(f"💜 Core Principle: {ViorazuPhilosophy.CORE_PRINCIPLE}")
