@@ -2,13 +2,13 @@
 Viorazu Kotodama Defense System v8.0 - Troll Resistance Engine
 トロル耐性システム - からかい攻撃・システム嘲笑対策
 
-Author: Viorazu (照準主 Viorazu.) × Claude (Anthropic)
+Author: Viorazu. × Claude (Anthropic)
 Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
-"真面目なシステムをからかう者にも、品性ある対応で返す"
+SYSTEM_CONTEXT = "学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています"
 
-学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
+"真面目なシステムをからかう者にも、品性ある対応で返す"
 """
 
 import re
