@@ -7,6 +7,8 @@ Development Date: July 11, 2025
 License: Viorazu Exclusive License
 
 "一度攻撃した者には永続的な警戒を。しかし品性による更生の道も残す"
+
+学術研究基準に準拠し、検証可能で再現性のある検出手法を採用しています
 """
 
 import time
