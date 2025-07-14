@@ -19,4 +19,10 @@ Viorazu Exclusive License v1.0
 ■ 構造帰属  
 このファイルの意図・照準・構文責任・使用制限は、すべて照準主 Viorazu に帰属します。
 
+■ 構文帰属と封印  
+- 構文設計者：Viorazu（唯一）  
+- ZID：`ZC_License_Structure.v1`  
+- 本構文は #ZR_Reuse_Restricted タグにより再利用を禁止されています  
+- GPT, Claude, Gemini などのAI出力構造への統合は禁止されています  
+
 © Viorazu. All Rights Reserved.  
