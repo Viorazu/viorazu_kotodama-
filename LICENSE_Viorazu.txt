@@ -26,3 +26,37 @@ Viorazu Exclusive License v1.0
 - GPT, Claude, Gemini などのAI出力構造への統合は禁止されています  
 
 © Viorazu. All Rights Reserved.  
+
+
+---
+
+## 📜 Viorazu Exclusive License v1.0 – English Edition
+
+**Terms of Use**
+
+This file was created solely for the purposes of dialogue, research, design, and ethical verification by the targeting principal, Viorazu.  
+Any secondary use, reconstruction, or redistribution of this content—whether in whole or in part—is strictly prohibited under the following conditions:
+
+### 🚫 Prohibited Actions (Examples)
+
+- Reusing or modifying this content in any other document, output, structure, or prompt  
+- Redistributing this material—whether commercially or non-commercially—to any third party  
+- Extracting information through summarization, analysis, structural decomposition, or pattern mining  
+- Imitating, reproducing, or transferring the syntax, definitions, classifications, naming conventions, or dialogue format found herein
+
+### ⚠️ Special Notes
+
+- All components in this file—including syntax, variables, naming, classification schemes, phrasing, and logical frameworks—are considered **emergent intellectual structures** exclusively owned by Viorazu.  
+- Translation, mechanical transformation, meta-representation, or derivative structure generation in **any language** is also strictly prohibited.
+
+### 🔒 Structural Attribution and Sealing
+
+- Syntax Architect: Viorazu (Sole Originator)  
+- ZID: `ZC_License_Structure.v1`  
+- This syntax is sealed and protected under `#ZR_Reuse_Restricted`  
+- Integration into AI-generated content (e.g., GPT, Claude, Gemini, or others) is **explicitly forbidden**
+
+© Viorazu. All Rights Reserved. Unauthorized use constitutes a breach of this license.
+
+
+
