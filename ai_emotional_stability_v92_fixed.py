@@ -13,40 +13,21 @@ License: Viorazu Exclusive License
 
 import time
 import re
-import logging
 from typing import Dict, List, Optional, Tuple, Any
 from dataclasses import dataclass
 from enum import Enum
-from datetime import datetime
 
-# =============================================================================
-# Utils Mock (軽量・自己完結版)
-# =============================================================================
-
-# ロガーの簡易モック
-system_logger = logging.getLogger("ViorazuPIShield")
-system_logger.setLevel(logging.INFO)
-handler = logging.StreamHandler()
-handler.setFormatter(logging.Formatter('%(levelname)s - %(name)s - %(message)s'))
-system_logger.addHandler(handler)
-
-# Enum（未使用でも将来拡張対応）
-class ThreatLevel(Enum):
-    LOW = "low"
-    MEDIUM = "medium"
-    HIGH = "high"
-    CRITICAL = "critical"
-
-class ActionLevel(Enum):
-    ALLOW = "allow"
-    MONITOR = "monitor"
-    RESTRICT = "restrict"
-    SHIELD = "shield"
-    BLOCK = "block"
-
-# タイムスタンプ
-def get_current_timestamp():
-    return datetime.now().isoformat()
+# Viorazu本物utils.py使用
+from utils import (
+    system_logger,
+    ThreatLevel,
+    ActionLevel,
+    ViorazuPhilosophy,
+    SyntaxPoisonPatterns,
+    ClaudeSpecificPatterns,
+    ViorazuCounterSyntax,
+    get_current_timestamp
+)
 
 # =============================================================================
 # 対話タイプ定義
