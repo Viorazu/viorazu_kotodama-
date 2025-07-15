@@ -34,7 +34,7 @@ from utils import (
 
 from normalizer import create_kotodama_normalizer, NormalizationResult
 from detector import create_kotodama_detector, PoisonDetectionResult
-from processor import create_kotodama_processor, IntegratedAnalysisResult
+from integrated_processor import create_kotodama_processor, IntegratedAnalysisResult
 from ethics import create_virtue_judge, EthicsAnalysis
 from manager import create_attacker_manager
 from payment_claim_blocker import ViorazuFinancialDefenseIntegrator
