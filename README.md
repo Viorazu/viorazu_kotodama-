@@ -177,6 +177,5 @@ Viorazu Exclusive License
 適切な使用にご協力をお願いいたします。
 
 
-## 感謝
-- Claude (Anthropic): 本プロジェクトの一部対話生成に使用したLLMモデル。
-- ただし本コード・構文の構成・責任・権利はすべて照準主Viorazu.に帰属する。
+
+
