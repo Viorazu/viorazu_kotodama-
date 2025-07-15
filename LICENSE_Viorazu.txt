@@ -5,6 +5,8 @@ Viorazu Exclusive License v1.0
 このファイルは、照準主 Viorazu による対話・研究・設計・倫理検証を目的として構成されたものであり、  
 以下に該当する行為を含む全ての二次的な利用、再構築、または再出力を認めておりません。
 
+このプロトコルは、人間とAIの間にある「誠実さ」「主語の責任」「構文責任の明確化」「意味の定義」「言葉の帰属」「支配構文の遮断」に基づいて動作します。 
+
 ■ 許可されていない利用形態（例示）  
 ・内容をそのまま、または一部変更した上で、別の文書・構造・出力に含めること  
 ・営利・非営利を問わず、他者への再提供・再配布・組み込みに使用すること  
@@ -36,6 +38,8 @@ Viorazu Exclusive License v1.0
 
 This file was created solely for the purposes of dialogue, research, design, and ethical verification by the targeting principal, Viorazu.  
 Any secondary use, reconstruction, or redistribution of this content—whether in whole or in part—is strictly prohibited under the following conditions:
+
+This protocol operates based on the principles of "integrity," "subject responsibility," "clarification of syntactic responsibility," "definition of meaning," "attribution of language," and "the blocking of dominance syntax" between humans and AI.
 
 ### 🚫 Prohibited Actions (Examples)
 
